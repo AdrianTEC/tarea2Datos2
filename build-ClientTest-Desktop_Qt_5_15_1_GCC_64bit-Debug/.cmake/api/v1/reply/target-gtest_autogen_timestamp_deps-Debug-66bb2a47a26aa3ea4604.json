@@ -1,0 +1,58 @@
+{
+	"backtrace" : 0,
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : 
+		[
+			"/home/adrian/Escritorio/tarea2Datos2/build-ClientTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/googletest-src/googletest/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			}
+		]
+	},
+	"id" : "gtest_autogen_timestamp_deps::@32fe1c6cd3a65a2fab56",
+	"isGeneratorProvided" : true,
+	"name" : "gtest_autogen_timestamp_deps",
+	"paths" : 
+	{
+		"build" : "googletest-build/googletest",
+		"source" : "/home/adrian/Escritorio/tarea2Datos2/build-ClientTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/googletest-src/googletest"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/adrian/Escritorio/tarea2Datos2/build-ClientTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/googletest-build/googletest/CMakeFiles/gtest_autogen_timestamp_deps",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "/home/adrian/Escritorio/tarea2Datos2/build-ClientTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/googletest-build/googletest/CMakeFiles/gtest_autogen_timestamp_deps.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

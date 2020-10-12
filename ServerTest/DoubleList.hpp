@@ -3,6 +3,7 @@
 #define minIndex 0
 #define singleElement 1
 #define OutIndex "index out of bounds"
+#pragma once
 struct OutIndexException : public std::exception {
     const char * what () const throw () {
         return OutIndex;

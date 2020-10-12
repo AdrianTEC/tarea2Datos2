@@ -1,5 +1,6 @@
 #include <gtest/gtest.h>
 #include "DoubleList.hpp"
+#include "Grafo.hpp"
 #include <iostream>
 #include<cstdio>
 int main(int argc, char *argv[])
@@ -24,18 +25,17 @@ TEST_F(ListTest, ListHasNohead) {
     EXPECT_ANY_THROW(testList->get(0));
 }
 
+TEST_F(ListTest, ListInsertion) {
+    int b = 5;
+    testList->add(b);
+    EXPECT_NO_THROW(testList->get(0));
+}
+
 TEST_F(ListTest, ListReturnsCorrectValue) {
     int a = 2;
     testList->add(a);
     EXPECT_EQ(2, * testList->get(0));
 }
-
-TEST_F(ListTest, ListInsertion) {
-    int b = 5;
-    testList->add(b);
-    EXPECT_EQ(5, *testList->get(0));
-}
-
 TEST_F(ListTest, ListSecondInsertion) {
     int a = 2;
     int b = 10;
@@ -63,4 +63,27 @@ TEST_F(ListTest, ElementValueChanging) {
     int c = 10;
     testList->set(0, c);
     EXPECT_EQ(10, * testList->get(0));
+}
+
+//new test fixture for graphs
+struct GraphTest : testing::Test {
+    Grafo<int> * testGraph;
+    GraphTest() {
+        testGraph = new Grafo<int>;
+    }
+};
+
+TEST_F(GraphTest, GraphStartsEmpty) {
+    EXPECT_ANY_THROW(testGraph->getNode(0));
+    //this should throw an exception as there is no node in the graph yet.
+}
+
+TEST_F(GraphTest, GraphAddNode) {
+    int a = 1;
+    EXPECT_NO_THROW(testGraph->AddNode(a));
+}
+TEST_F(GraphTest, NodeSavedCorrectly) {
+    int a = 1;
+    testGraph->AddNode(a);
+    EXPECT_EQ(a, * testGraph->getNode(0));
 }

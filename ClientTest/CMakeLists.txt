@@ -49,12 +49,9 @@ else()
     widget.cpp
     widget.h
     widget.ui
-    DoubleList.hpp
-    DoubleNode.hpp
     localserver.h
     localserver.cpp
     Pintor.cpp
-    Grafo.hpp
     Pintor.h
   )
 endif()

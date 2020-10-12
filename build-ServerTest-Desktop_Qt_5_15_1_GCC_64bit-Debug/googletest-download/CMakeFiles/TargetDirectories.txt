@@ -1,0 +1,3 @@
+/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/googletest-download/CMakeFiles/rebuild_cache.dir
+/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/googletest-download/CMakeFiles/edit_cache.dir
+/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/googletest-download/CMakeFiles/googletest.dir

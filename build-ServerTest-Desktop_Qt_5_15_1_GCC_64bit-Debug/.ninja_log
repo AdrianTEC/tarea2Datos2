@@ -1,0 +1,18 @@
+# ninja log v5
+0	11	1602531022967581591	googletest-build/googletest/gtest_autogen/timestamp	2a0a020d2094cced
+11	27	1602531022983581400	googletest-build/googletest/CMakeFiles/gtest.dir/gtest_autogen/mocs_compilation.cpp.o	71087cda247fd51e
+12	4714	1602531027667525461	googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	f675d15afebe2669
+4715	4882	1602531027767524266	lib/libgtestd.a	a370f5e98d7b58fe
+4882	4917	1602531027871523023	googletest-build/googletest/gtest_main_autogen/timestamp	a83060a271ef0078
+4917	4953	1602531027907522594	googletest-build/googletest/CMakeFiles/gtest_main.dir/gtest_main_autogen/mocs_compilation.cpp.o	6797fde3417603d0
+4918	5586	1602531028531515142	googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	b2a2d083f838aefb
+5586	5639	1602531028547514951	lib/libgtest_maind.a	3bd5137b3062c765
+5640	5655	1602531028611514186	example_autogen/timestamp	86e7520456157663
+5655	5671	1602531028627513995	CMakeFiles/example.dir/example_autogen/mocs_compilation.cpp.o	73d057374728e6ff
+5639	5786	1602531028743512610	ServerTest_autogen/timestamp	ea469a27c544dad9
+5656	6551	1602531029507503486	CMakeFiles/example.dir/example.cpp.o	3e274530b974828d
+6551	6770	1602531029723500907	example	524dbfd821ed8f5f
+5786	7135	1602531030091496512	CMakeFiles/ServerTest.dir/main.cpp.o	6194aa32f49575f6
+5787	7138	1602531030091496512	CMakeFiles/ServerTest.dir/ServerTest_autogen/mocs_compilation.cpp.o	66a8e661f4f03682
+5787	7391	1602531030347493455	CMakeFiles/ServerTest.dir/widget.cpp.o	c5b304be285ca1f2
+7391	7703	1602531030655489776	ServerTest	958e566e261d5d49

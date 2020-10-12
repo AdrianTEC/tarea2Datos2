@@ -69,3 +69,10 @@
 2	20	1602473683258150710	CMakeFiles/example.dir/example_autogen/mocs_compilation.cpp.o	29e47c40a86cdce6
 2	1001	1602473684242159489	CMakeFiles/example.dir/example.cpp.o	ef6f8b7e9cf1974e
 1001	1245	1602473684482161631	example	524dbfd821ed8f5f
+147	691	1602526863497415876	CMakeFiles/example.dir/example_autogen/mocs_compilation.cpp.o	29e47c40a86cdce6
+148	2095	1602526864905390831	CMakeFiles/example.dir/example.cpp.o	ef6f8b7e9cf1974e
+2095	2895	1602526865705376721	example	524dbfd821ed8f5f
+4	942	1602529980092121841	CMakeFiles/example.dir/example.cpp.o	ef6f8b7e9cf1974e
+942	1162	1602529980312119161	example	524dbfd821ed8f5f
+4	2399	1602529981552104055	CMakeFiles/ClientTest.dir/widget.cpp.o	60b6ee88713bdcea
+2399	3164	1602529982312094797	ClientTest	dc5a5ee44f5ac21f

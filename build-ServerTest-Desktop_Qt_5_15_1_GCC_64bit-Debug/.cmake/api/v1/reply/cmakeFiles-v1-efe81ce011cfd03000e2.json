@@ -1,0 +1,548 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/CMakeFiles/3.18.3/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/CMakeFiles/3.18.3/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/Platform/Linux.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/Internal/CMakeCheckCompilerFlag.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/Platform/Linux-GNU-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5/Qt5Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5/Qt5ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5/Qt5Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5/Qt5ModuleLocation.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Core/Qt5CoreMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QGtk3ThemePlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWaylandEglPlatformIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWaylandIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeEglPlatformIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeGlxPlatformIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsConfigExtras.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Widgets/Qt5WidgetsMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Network/Qt5Network_QConnmanEnginePlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5Network/Qt5Network_QNetworkManagerEnginePlugin.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/5.15.1/gcc_64/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeParseArguments.cmake"
+		},
+		{
+			"path" : "CMakeLists.txt.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/googletest-src/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/CMakeFiles/3.18.3/CMakeCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/Platform/Linux-GNU-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/Platform/Linux-GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/GNUInstallDirs.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/googletest-src/googlemock/CMakeLists.txt"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/googletest-src/googlemock/cmake/gmock.pc.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/googletest-src/googlemock/cmake/gmock_main.pc.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/googletest-src/googletest/CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/googletest-src/googletest/cmake/internal_utils.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/FindPythonInterp.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakePackageConfigHelpers.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/WriteBasicConfigVersionFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/googletest-src/googletest/cmake/Config.cmake.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/googletest-src/googletest/cmake/gtest.pc.in"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/googletest-src/googletest/cmake/gtest_main.pc.in"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug",
+		"source" : "/home/adrian/Escritorio/tarea2Datos2/ServerTest"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}

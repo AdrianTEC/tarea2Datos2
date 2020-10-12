@@ -1,0 +1,17 @@
+googletest-build/googletest/gtest_main_autogen/timestamp: \
+	/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/googletest-src/googletest/CMakeLists.txt \
+	/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/googletest-src/googletest/cmake/Config.cmake.in \
+	/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/googletest-src/googletest/cmake/gtest.pc.in \
+	/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/googletest-src/googletest/cmake/gtest_main.pc.in \
+	/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/googletest-src/googletest/cmake/internal_utils.cmake \
+	/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/BasicConfigVersion-AnyNewerVersion.cmake.in \
+	/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CMakePackageConfigHelpers.cmake \
+	/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CheckCSourceCompiles.cmake \
+	/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CheckIncludeFile.cmake \
+	/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/CheckLibraryExists.cmake \
+	/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/FindPackageHandleStandardArgs.cmake \
+	/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/FindPackageMessage.cmake \
+	/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/FindPythonInterp.cmake \
+	/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/FindThreads.cmake \
+	/home/adrian/Qt/Tools/CMake/share/cmake-3.18/Modules/WriteBasicConfigVersionFile.cmake \
+	/home/adrian/Qt/Tools/CMake/bin/cmake

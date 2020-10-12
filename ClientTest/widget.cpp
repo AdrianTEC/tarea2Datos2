@@ -116,7 +116,7 @@ void Widget::AddEdge()
     {
         graph->addEdge(ui->inicioe->value(),ui->finale->value(), ui->value->value() );
         graph->update();
-        grafo->fixRelationShip(ui->inicioe->value(),ui->finale->value(),ui->value->value() );
+        //grafo->fixRelationShip(ui->inicioe->value(),ui->finale->value(),ui->value->value() );
     }
 
 void Widget::on_getRoute_clicked()
@@ -138,7 +138,7 @@ void Widget::addNodeImage()
         pos.add(y);
         historialPosiciones->add( pos );
         int algo = graph->Points->getLen();
-        grafo->AddNode(algo);
+        //grafo->AddNode(algo);
 
         graph->addNode(x,y,ui->newnodo->value());
         graph->update();

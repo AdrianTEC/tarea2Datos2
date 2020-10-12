@@ -1,0 +1,306 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"build" : "googletest-build",
+					"childIndexes" : 
+					[
+						2
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/googletest-src"
+				},
+				{
+					"build" : "googletest-build/googlemock",
+					"childIndexes" : 
+					[
+						3
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.6.4"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 2,
+					"source" : "/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/googletest-src/googlemock",
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				},
+				{
+					"build" : "googletest-build/googletest",
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.6.4"
+					},
+					"parentIndex" : 2,
+					"projectIndex" : 3,
+					"source" : "/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/googletest-src/googletest",
+					"targetIndexes" : 
+					[
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ServerTest",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				},
+				{
+					"childIndexes" : 
+					[
+						2
+					],
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "googletest-distribution",
+					"parentIndex" : 0
+				},
+				{
+					"childIndexes" : 
+					[
+						3
+					],
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "gmock",
+					"parentIndex" : 1,
+					"targetIndexes" : 
+					[
+						6,
+						7,
+						8,
+						9,
+						10,
+						11
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "gtest",
+					"parentIndex" : 2,
+					"targetIndexes" : 
+					[
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ServerTest::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ServerTest-Debug-9991fc44d84ebacc5c10.json",
+					"name" : "ServerTest",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ServerTest_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ServerTest_autogen-Debug-d917fc4453674003f8a7.json",
+					"name" : "ServerTest_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ServerTest_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ServerTest_autogen_timestamp_deps-Debug-49026a7843237d25b99a.json",
+					"name" : "ServerTest_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example-Debug-a00b4e52ec2fb387a44e.json",
+					"name" : "example",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_autogen-Debug-07ee23ffaac7a28da38c.json",
+					"name" : "example_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_autogen_timestamp_deps-Debug-55301cbab2525eaf20d5.json",
+					"name" : "example_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gmock::@645c719b6bb61ab77cfe",
+					"jsonFile" : "target-gmock-Debug-d3d1347fe78474ac6daa.json",
+					"name" : "gmock",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gmock_autogen::@645c719b6bb61ab77cfe",
+					"jsonFile" : "target-gmock_autogen-Debug-3a0902c9bc906b295c4f.json",
+					"name" : "gmock_autogen",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gmock_autogen_timestamp_deps::@645c719b6bb61ab77cfe",
+					"jsonFile" : "target-gmock_autogen_timestamp_deps-Debug-9f6d3992a1fe049f0d4e.json",
+					"name" : "gmock_autogen_timestamp_deps",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gmock_main::@645c719b6bb61ab77cfe",
+					"jsonFile" : "target-gmock_main-Debug-7484aa8382df0bfffe73.json",
+					"name" : "gmock_main",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gmock_main_autogen::@645c719b6bb61ab77cfe",
+					"jsonFile" : "target-gmock_main_autogen-Debug-a04278db189afb8c4752.json",
+					"name" : "gmock_main_autogen",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "gmock_main_autogen_timestamp_deps::@645c719b6bb61ab77cfe",
+					"jsonFile" : "target-gmock_main_autogen_timestamp_deps-Debug-ee91a0a180303505964e.json",
+					"name" : "gmock_main_autogen_timestamp_deps",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "gtest::@32fe1c6cd3a65a2fab56",
+					"jsonFile" : "target-gtest-Debug-9945a7ccdf38778c6b9b.json",
+					"name" : "gtest",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "gtest_autogen::@32fe1c6cd3a65a2fab56",
+					"jsonFile" : "target-gtest_autogen-Debug-d53f4a89b68b75eee1db.json",
+					"name" : "gtest_autogen",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "gtest_autogen_timestamp_deps::@32fe1c6cd3a65a2fab56",
+					"jsonFile" : "target-gtest_autogen_timestamp_deps-Debug-91081da8be8ae1e7d07f.json",
+					"name" : "gtest_autogen_timestamp_deps",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "gtest_main::@32fe1c6cd3a65a2fab56",
+					"jsonFile" : "target-gtest_main-Debug-40ced94b1726ee41917d.json",
+					"name" : "gtest_main",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "gtest_main_autogen::@32fe1c6cd3a65a2fab56",
+					"jsonFile" : "target-gtest_main_autogen-Debug-92d40f11c09d6f057e8e.json",
+					"name" : "gtest_main_autogen",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "gtest_main_autogen_timestamp_deps::@32fe1c6cd3a65a2fab56",
+					"jsonFile" : "target-gtest_main_autogen_timestamp_deps-Debug-c1716553b5077a18ef40.json",
+					"name" : "gtest_main_autogen_timestamp_deps",
+					"projectIndex" : 3
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug",
+		"source" : "/home/adrian/Escritorio/tarea2Datos2/ServerTest"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

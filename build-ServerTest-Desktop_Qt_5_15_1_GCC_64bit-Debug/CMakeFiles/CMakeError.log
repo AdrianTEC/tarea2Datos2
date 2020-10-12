@@ -1,0 +1,50 @@
+Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
+Change Dir: /home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/home/adrian/Qt/Tools/Ninja/ninja cmTC_cf7f2 && [1/2] Building C object CMakeFiles/cmTC_cf7f2.dir/src.c.o
+[2/2] Linking C executable cmTC_cf7f2
+FAILED: cmTC_cf7f2 
+: && /usr/bin/gcc -DCMAKE_HAVE_LIBC_PTHREAD -rdynamic CMakeFiles/cmTC_cf7f2.dir/src.c.o -o cmTC_cf7f2   && :
+/usr/bin/ld: CMakeFiles/cmTC_cf7f2.dir/src.c.o: en la función `main':
+src.c:(.text+0x46): referencia a `pthread_create' sin definir
+/usr/bin/ld: src.c:(.text+0x52): referencia a `pthread_detach' sin definir
+/usr/bin/ld: src.c:(.text+0x5e): referencia a `pthread_cancel' sin definir
+/usr/bin/ld: src.c:(.text+0x6f): referencia a `pthread_join' sin definir
+collect2: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.
+
+
+Source file was:
+#include <pthread.h>
+
+void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_cancel(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/home/adrian/Qt/Tools/Ninja/ninja cmTC_98782 && [1/2] Building C object CMakeFiles/cmTC_98782.dir/CheckFunctionExists.c.o
+[2/2] Linking C executable cmTC_98782
+FAILED: cmTC_98782 
+: && /usr/bin/gcc -DCHECK_FUNCTION_EXISTS=pthread_create -rdynamic CMakeFiles/cmTC_98782.dir/CheckFunctionExists.c.o -o cmTC_98782  -lpthreads && :
+/usr/bin/ld: no se puede encontrar -lpthreads
+collect2: error: ld returned 1 exit status
+ninja: build stopped: subcommand failed.
+
+
+

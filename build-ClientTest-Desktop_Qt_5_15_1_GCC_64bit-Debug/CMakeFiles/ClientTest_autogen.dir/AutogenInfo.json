@@ -98,21 +98,6 @@
 	"HEADERS" : 
 	[
 		[
-			"/home/adrian/Escritorio/tarea2Datos2/ClientTest/DoubleList.hpp",
-			"MU",
-			"EWIEGA46WW/moc_DoubleList.cpp"
-		],
-		[
-			"/home/adrian/Escritorio/tarea2Datos2/ClientTest/DoubleNode.hpp",
-			"MU",
-			"EWIEGA46WW/moc_DoubleNode.cpp"
-		],
-		[
-			"/home/adrian/Escritorio/tarea2Datos2/ClientTest/Grafo.hpp",
-			"MU",
-			"EWIEGA46WW/moc_Grafo.cpp"
-		],
-		[
 			"/home/adrian/Escritorio/tarea2Datos2/ClientTest/Pintor.h",
 			"MU",
 			"EWIEGA46WW/moc_Pintor.cpp"

@@ -258,7 +258,7 @@ build example_autogen/timestamp: CUSTOM_COMMAND /home/adrian/Qt/5.15.1/gcc_64/bi
 #############################################
 # Phony custom command for CMakeFiles/ClientTest_autogen_timestamp_deps
 
-build CMakeFiles/ClientTest_autogen_timestamp_deps: phony /home/adrian/Qt/5.15.1/gcc_64/lib/libQt5Widgets.so.5.15.1 /home/adrian/Qt/5.15.1/gcc_64/lib/libQt5Network.so.5.15.1 /home/adrian/Qt/5.15.1/gcc_64/bin/moc /home/adrian/Qt/5.15.1/gcc_64/bin/uic lib/libgtest_maind.a || googletest-build/googletest/gtest_autogen googletest-build/googletest/gtest_autogen_timestamp_deps googletest-build/googletest/gtest_main_autogen googletest-build/googletest/gtest_main_autogen_timestamp_deps lib/libgtest_maind.a lib/libgtestd.a
+build CMakeFiles/ClientTest_autogen_timestamp_deps: phony /home/adrian/Qt/5.15.1/gcc_64/lib/libQt5Widgets.so.5.15.1 /home/adrian/Qt/5.15.1/gcc_64/bin/moc /home/adrian/Qt/5.15.1/gcc_64/lib/libQt5Network.so.5.15.1 /home/adrian/Qt/5.15.1/gcc_64/bin/uic lib/libgtest_maind.a || googletest-build/googletest/gtest_autogen googletest-build/googletest/gtest_autogen_timestamp_deps googletest-build/googletest/gtest_main_autogen googletest-build/googletest/gtest_main_autogen_timestamp_deps lib/libgtest_maind.a lib/libgtestd.a
 
 
 #############################################
@@ -270,7 +270,7 @@ build CMakeFiles/ClientTest_autogen ClientTest_autogen/mocs_compilation.cpp: pho
 #############################################
 # Phony custom command for CMakeFiles/example_autogen_timestamp_deps
 
-build CMakeFiles/example_autogen_timestamp_deps: phony /home/adrian/Qt/5.15.1/gcc_64/lib/libQt5Network.so.5.15.1 /home/adrian/Qt/5.15.1/gcc_64/bin/moc /home/adrian/Qt/5.15.1/gcc_64/bin/uic lib/libgtest_maind.a || googletest-build/googletest/gtest_autogen googletest-build/googletest/gtest_autogen_timestamp_deps googletest-build/googletest/gtest_main_autogen googletest-build/googletest/gtest_main_autogen_timestamp_deps lib/libgtest_maind.a lib/libgtestd.a
+build CMakeFiles/example_autogen_timestamp_deps: phony /home/adrian/Qt/5.15.1/gcc_64/bin/moc /home/adrian/Qt/5.15.1/gcc_64/lib/libQt5Network.so.5.15.1 /home/adrian/Qt/5.15.1/gcc_64/bin/uic lib/libgtest_maind.a || googletest-build/googletest/gtest_autogen googletest-build/googletest/gtest_autogen_timestamp_deps googletest-build/googletest/gtest_main_autogen googletest-build/googletest/gtest_main_autogen_timestamp_deps lib/libgtest_maind.a lib/libgtestd.a
 
 
 #############################################

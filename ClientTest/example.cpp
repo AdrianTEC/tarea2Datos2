@@ -12,9 +12,6 @@ int main(int argc, char *argv[])
 
 TEST(ListasDobles , Insercion )
     {
-              DoubleList<int>* miListaHiperEspecial= new DoubleList<int>;
-              int prueba = 12;
-              miListaHiperEspecial->add(prueba);
 
-              EXPECT_EQ(*miListaHiperEspecial->get(0),12);
+              //EXPECT_EQ();
     }

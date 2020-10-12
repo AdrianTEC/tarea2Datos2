@@ -16,3 +16,9 @@
 5787	7138	1602531030091496512	CMakeFiles/ServerTest.dir/ServerTest_autogen/mocs_compilation.cpp.o	66a8e661f4f03682
 5787	7391	1602531030347493455	CMakeFiles/ServerTest.dir/widget.cpp.o	c5b304be285ca1f2
 7391	7703	1602531030655489776	ServerTest	958e566e261d5d49
+2	804	1602541312215741658	CMakeFiles/example.dir/example.cpp.o	3e274530b974828d
+805	978	1602541312387740456	example	524dbfd821ed8f5f
+1	1257	1602541402187086432	CMakeFiles/ServerTest.dir/main.cpp.o	6194aa32f49575f6
+2	1288	1602541402219086190	CMakeFiles/ServerTest.dir/ServerTest_autogen/mocs_compilation.cpp.o	66a8e661f4f03682
+2	1531	1602541402463084345	CMakeFiles/ServerTest.dir/widget.cpp.o	c5b304be285ca1f2
+1531	1845	1602541402775081985	ServerTest	958e566e261d5d49

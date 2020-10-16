@@ -1,11 +1,19 @@
 ServerTest_autogen/timestamp: \
 	/home/adrian/Escritorio/tarea2Datos2/ServerTest/CMakeLists.txt \
 	/home/adrian/Escritorio/tarea2Datos2/ServerTest/CMakeLists.txt.in \
+	/home/adrian/Escritorio/tarea2Datos2/ServerTest/DoubleList.hpp \
+	/home/adrian/Escritorio/tarea2Datos2/ServerTest/DoubleNode.hpp \
+	/home/adrian/Escritorio/tarea2Datos2/ServerTest/FloydWarshall.h \
+	/home/adrian/Escritorio/tarea2Datos2/ServerTest/Grafo.hpp \
+	/home/adrian/Escritorio/tarea2Datos2/ServerTest/Response.h \
 	/home/adrian/Escritorio/tarea2Datos2/ServerTest/localserver.h \
+	/home/adrian/Escritorio/tarea2Datos2/ServerTest/servertest.h \
 	/home/adrian/Escritorio/tarea2Datos2/ServerTest/widget.h \
 	/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/CMakeFiles/3.18.3/CMakeCXXCompiler.cmake \
 	/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/CMakeFiles/3.18.3/CMakeSystem.cmake \
 	/home/adrian/Escritorio/tarea2Datos2/build-ServerTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/ServerTest_autogen/moc_predefs.h \
+	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/QJsonDocument \
+	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/QJsonObject \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qalgorithms.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qarraydata.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qatomic.h \
@@ -13,6 +21,8 @@ ServerTest_autogen/timestamp: \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qbasicatomic.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qbytearray.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qbytearraylist.h \
+	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qcborcommon.h \
+	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qcborvalue.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qchar.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qcompilerdetection.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qconfig.h \
@@ -20,6 +30,7 @@ ServerTest_autogen/timestamp: \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qcontainertools_impl.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qcontiguouscache.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qdatastream.h \
+	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qdatetime.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qdebug.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qflags.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qgenericatomic.h \
@@ -29,6 +40,9 @@ ServerTest_autogen/timestamp: \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qhashfunctions.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qiodevice.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qiterator.h \
+	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qjsondocument.h \
+	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qjsonobject.h \
+	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qjsonvalue.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qline.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qlist.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qlocale.h \
@@ -48,6 +62,7 @@ ServerTest_autogen/timestamp: \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qrect.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qrefcount.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qregexp.h \
+	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qregularexpression.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qscopedpointer.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qset.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qshareddata.h \
@@ -65,6 +80,8 @@ ServerTest_autogen/timestamp: \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qtcore-config.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qtextstream.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qtypeinfo.h \
+	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qurl.h \
+	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/quuid.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qvariant.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qvarlengtharray.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtCore/qvector.h \
@@ -91,11 +108,16 @@ ServerTest_autogen/timestamp: \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtGui/qtransform.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtGui/qwindowdefs.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtNetwork/QLocalServer \
+	/home/adrian/Qt/5.15.1/gcc_64/include/QtNetwork/QLocalSocket \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtNetwork/qabstractsocket.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtNetwork/qlocalserver.h \
+	/home/adrian/Qt/5.15.1/gcc_64/include/QtNetwork/qlocalsocket.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtNetwork/qtnetwork-config.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtNetwork/qtnetworkglobal.h \
+	/home/adrian/Qt/5.15.1/gcc_64/include/QtWidgets/QMessageBox \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtWidgets/QWidget \
+	/home/adrian/Qt/5.15.1/gcc_64/include/QtWidgets/qdialog.h \
+	/home/adrian/Qt/5.15.1/gcc_64/include/QtWidgets/qmessagebox.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtWidgets/qsizepolicy.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtWidgets/qtwidgets-config.h \
 	/home/adrian/Qt/5.15.1/gcc_64/include/QtWidgets/qtwidgetsglobal.h \

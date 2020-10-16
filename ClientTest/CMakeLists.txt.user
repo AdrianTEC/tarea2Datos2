@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.13.2, 2020-10-12T16:26:31. -->
+<!-- Written by QtCreator 4.13.2, 2020-10-14T20:29:20. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -65,8 +65,8 @@
     <value type="bool" key="AutoTest.Framework.QtTest">true</value>
    </valuemap>
    <valuemap type="QVariantMap" key="AutoTest.CheckStates">
-    <value type="Qt::CheckState" key="/home/adrian/Escritorio/tarea2Datos2/ClientTest/example.cpp:Insercion">Checked</value>
-    <value type="Qt::CheckState" key="/home/adrian/Escritorio/tarea2Datos2/ClientTest/example.cpp:ListasDobles">Checked</value>
+    <value type="Qt::CheckState" key="/home/adrian/Escritorio/tarea2Datos2/ClientTest/example.cpp:Conectar">Checked</value>
+    <value type="Qt::CheckState" key="/home/adrian/Escritorio/tarea2Datos2/ClientTest/example.cpp:SocketTest">Checked</value>
    </valuemap>
    <value type="int" key="AutoTest.RunAfterBuild">0</value>
    <value type="bool" key="AutoTest.UseGlobal">true</value>
@@ -93,7 +93,7 @@
    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.qt5.5151.gcc_64_kit</value>
    <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">0</value>
    <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">0</value>
-   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">0</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">1</value>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.BuildConfiguration.0">
     <value type="QString" key="CMake.Initial.Parameters">-GNinja
 -DCMAKE_BUILD_TYPE:String=Debug

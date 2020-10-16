@@ -6,6 +6,7 @@ ClientTest_autogen/timestamp: \
 	/home/adrian/Escritorio/tarea2Datos2/ClientTest/Grafo.hpp \
 	/home/adrian/Escritorio/tarea2Datos2/ClientTest/Pintor.h \
 	/home/adrian/Escritorio/tarea2Datos2/ClientTest/localserver.h \
+	/home/adrian/Escritorio/tarea2Datos2/ClientTest/servertest.h \
 	/home/adrian/Escritorio/tarea2Datos2/ClientTest/widget.h \
 	/home/adrian/Escritorio/tarea2Datos2/build-ClientTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/CMakeFiles/3.18.3/CMakeCXXCompiler.cmake \
 	/home/adrian/Escritorio/tarea2Datos2/build-ClientTest-Desktop_Qt_5_15_1_GCC_64bit-Debug/CMakeFiles/3.18.3/CMakeSystem.cmake \

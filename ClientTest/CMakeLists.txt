@@ -53,6 +53,8 @@ else()
     localserver.cpp
     Pintor.cpp
     Pintor.h
+    servertest.cpp
+    servertest.h
   )
 endif()
 
@@ -90,8 +92,16 @@ add_subdirectory(${CMAKE_CURRENT_BINARY_DIR}/googletest-src
 #endif()
 
 
-add_executable( example example.cpp )
-target_link_libraries(example gtest_main
+add_executable( example example.cpp
+    servertest.cpp
+    servertest.h
+    localserver.h
+    localserver.cpp
+
+    )
+target_link_libraries(example
+        Qt${QT_VERSION_MAJOR}::Widgets
+        gtest_main
         Qt${QT_VERSION_MAJOR}::Network
     )
 target_link_libraries(ClientTest  PRIVATE

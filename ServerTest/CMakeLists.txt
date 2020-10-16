@@ -49,12 +49,26 @@ else()
     widget.cpp
     widget.h
     widget.ui
-    localserver.h
+
+    Grafo.hpp
+
     DoubleList.hpp
     DoubleNode.hpp
+
+    localserver.h
+    localserver.cpp
+
+    localserver.h
+    localserver.cpp
+
     FloydWarshall.h
-    Grafo.hpp
+    FloydWarshall.cpp
+    servertest.cpp
+    servertest.h
+    FloydWResponse.cpp
+
     Response.h
+
 
 
   )
@@ -95,8 +109,36 @@ add_subdirectory(${CMAKE_CURRENT_BINARY_DIR}/googletest-src
 #endif()
 
 
-add_executable( example example.cpp )
-target_link_libraries(example gtest_main
+add_executable( example example.cpp
+    servertest.cpp
+    servertest.h
+
+
+    Grafo.hpp
+
+    DoubleList.hpp
+    DoubleNode.hpp
+
+    localserver.h
+    localserver.cpp
+
+    localserver.h
+    localserver.cpp
+
+    FloydWarshall.h
+    FloydWarshall.cpp
+    servertest.cpp
+    servertest.h
+    FloydWResponse.cpp
+
+    Response.h
+
+
+
+    )
+target_link_libraries(example
+        Qt${QT_VERSION_MAJOR}::Widgets
+        gtest_main
         Qt${QT_VERSION_MAJOR}::Network
     )
 target_link_libraries(ServerTest  PRIVATE
